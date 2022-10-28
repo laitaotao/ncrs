@@ -1,4 +1,4 @@
-Our code is based on the framework of [1]. The code is an example for 3D motion segmentation by using homography matrix.
+Our code is based on the framework of [1]. The code is an example for 3D motion segmentation by using homography matrix. More details about the use of the code please see readme-2.txt.
 The order of performing the code is as follows：
 1. script_Fundamental_Hypo_mMultiSamp
 2. script_Fundamental_ORK_RandSamp
